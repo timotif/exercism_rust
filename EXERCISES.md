@@ -6,8 +6,8 @@ Run one: `cd exercises/practice/<slug> && cargo test` (add `-- --include-ignored
 
 ## Learning (concept) exercises — do these first, in order
 
-1. [ ] [Lucian's Luscious Lasagna](exercises/concept/lucians-luscious-lasagna) — concepts: functions
-2. [ ] [Magazine Cutout](exercises/concept/magazine-cutout) — concepts: entry-api
+1. [x] [Lucian's Luscious Lasagna](exercises/concept/lucians-luscious-lasagna) — concepts: functions
+2. [x] [Magazine Cutout](exercises/concept/magazine-cutout) — concepts: entry-api
 3. [ ] [Assembly Line](exercises/concept/assembly-line) — concepts: integers, floating-point-numbers
 4. [ ] [Semi Structured Logs](exercises/concept/semi-structured-logs) — concepts: enums
 5. [ ] [Resistor Color](exercises/concept/resistor-color) — concepts: external-crates
